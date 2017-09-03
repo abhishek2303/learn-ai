@@ -1,0 +1,69 @@
+.ai-subfield .grid_10{
+  width: inherit;
+}
+
+.headline{
+  width: inherit;
+  font-size: 32px;
+  line-height: 36px;
+  text-align: center;
+  margin: 10px 0px;
+}
+
+.course-list{
+  list-style:none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.course-box{
+  box-sizing: border-box;
+  width: inherit;
+  padding: 15px;
+  height: auto;
+  background: white;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.course-box .course-heading{
+  width: 100%;
+}
+
+.course-name{
+  font-size: 20px;
+  line-height: 30px;
+  float: left;
+  text-decoration: none;
+  /*text-decoration-color: #0f6ac4;*/
+  color: #07203a;
+}
+
+.course-logo{
+  box-sizing: content-box;
+  width: 65px;
+  height: 65px;
+  margin-bottom: 8px;
+  padding-right: 10px;
+  float: left;
+}
+
+.course-box .course-fig{
+  width: 100%;
+  height: 400px;
+  box-sizing: border-box;
+  margin: 0px;
+  clear: both;
+}
+
+.course-figcaption{
+  display: none;
+}
+
+.course-box .course-description{
+  padding-top: 8px;
+  width: 100%;
+  font-size: 17px;
+  line-height: 20px;
+  padding-left: 3px;
+}
