@@ -55,7 +55,7 @@ header{
   
 }
 
-.wrap{
+.main-course-contents{
 
 }
 
@@ -89,7 +89,14 @@ header{
   vertical-align: center;
   font-size: 45px;
   line-height: 55px;
-  height: 190px;
   padding: 40px;
+}
+
+social-logo{
+  box-sizing: border-box;
+  width: 40%;
+  height: width;
+  padding: 5px;
+  background-color: green;
 }
 
